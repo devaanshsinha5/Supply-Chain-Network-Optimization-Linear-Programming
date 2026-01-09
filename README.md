@@ -55,7 +55,7 @@ The following "Shadow Prices" (Dual Values) were generated to guide management d
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/supply-chain-network-optimization.git](https://github.com/YOUR_USERNAME/supply-chain-network-optimization.git)
+    git clone [https://github.com/devaanshsinha5/supply-chain-network-optimization.git](https://github.com/devaanshsinha5/supply-chain-network-optimization.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -67,4 +67,4 @@ The following "Shadow Prices" (Dual Values) were generated to guide management d
     ```
 
 ---
-*Author: [Your Name]*
+*Author: Devaansh Sinha*
